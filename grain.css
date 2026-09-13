@@ -3,7 +3,7 @@
 }
 
 .noise {
-    background: rgb(68, 68, 68)  url(grain.svg);
+    background: rgb(68, 68, 68)  url(https://raw.githubusercontent.com/UrahTheCat/AO3-Resources/16e61b3e5633ab442da8338dbd1b87fc0f0baf96/grain.svg);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
