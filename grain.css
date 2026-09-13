@@ -1,0 +1,9 @@
+* {
+  background: #333;
+}
+
+.noise {
+    background: rgb(68, 68, 68)  url(grain.svg);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
